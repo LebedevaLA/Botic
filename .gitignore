@@ -1,0 +1,5 @@
+#.gitignore
+*.ini
+.idea*
+__pycache__*
+*.json
